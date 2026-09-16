@@ -8,13 +8,13 @@ C:\Users\Egzamin\source\repos\misia73\pracownia-projektowania-aplikacji-desktopo
 _16092026
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\Egzamin\source\repos\misia73\pracownia-projektowania-aplikacji-desktopowych\16092026\16092026\App.xaml
 11407045341
 
-4-1004248704
-198-352714763
+6-509985745
+396-705429526
 MainWindow.xaml;
 
-True
+False
 
