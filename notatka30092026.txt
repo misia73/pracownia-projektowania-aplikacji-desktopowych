@@ -1,0 +1,13 @@
+elementy moga byc przywiazane do roznych danych z roznych zrodel 
+jako .net obiekty i xml.data binding to proces ktory stabilizuje 
+polaczenie pomiedzy ui aplikacji i danymi ktore wyswietla.
+data binding gdy jest zdeklarowana na eleentach xaml to 
+rozwiazuje przywiazanie danych patrzac na ich data context.
+sa dwa sposoby tego jak przepluwaja dane, one way i two way.
+one way tylko read-only,two way mozna edytowac.
+kazdy biinding ma target, property, source i path.
+kolekcje widokow to warstwa ostatnia binding source ktora pozwala 
+nawigowac i wyswietlac kolekcje przez filtrowanie ich.
+mozna je sortowac, filtrowac, grupowac.
+proces walidacji wystepuje tylko gdy wartosc targetu jest
+przeniesiona do binding source property.
